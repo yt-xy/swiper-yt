@@ -71,7 +71,7 @@ WSGI_APPLICATION = 'swiper.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'swiper-yt',
+        'NAME': 'swiper_yt',
         'USER': 'yt',
         'PASSWORD': '123',
         'HOST': 'localhost',
